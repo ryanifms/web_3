@@ -3,6 +3,7 @@
 # financiaAi
 
 **financiaAi** é um projeto para facilitar o acesso a informações financeiras e ajudar os usuários a gerenciar suas finanças pessoais.
+## Alunos: Ryan Padilha e Lucas Guimaro
 
 ## Índice
 
@@ -76,3 +77,6 @@ DB_PASSWORD=postgres
 Para iniciar a aplicação, execute:
 ```bash
 php artisar serve 
+   ```
+escreve na url depois de abir no navegador
+   dashboard
