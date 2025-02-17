@@ -86,4 +86,5 @@ escreve na url depois de abir no navegador
  ou 
  caso o host nao seja o padrao
  dashboard
- 
+ der do banco de dados
+ https://docs.google.com/document/d/1GtdebSe_KmsH5nliBo9p5F8tUT9iA4IbiKgbXrFX9sw/edit?usp=sharing
