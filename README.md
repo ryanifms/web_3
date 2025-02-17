@@ -70,10 +70,9 @@ DB_PASSWORD=postgres
     ```bash
     php php artisan key:generate
     ```
-      ```bash
- php artisan migrate
+     ```bash
+    php php artisan migrate
     ```
-    
 
 ## Uso
 
