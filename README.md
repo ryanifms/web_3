@@ -38,8 +38,11 @@ O **financiaAi** é uma ferramenta que permite aos usuários:
     ```bash
     composer install
     ```
-4. Faca a copia das variveis de ambiente:
-    ```bash
+4. Faca a copia das variveis de ambiente e baixar:
+https://docs.google.com/document/d/1seKGSdu1WuIJLHVaNBAZVkwiQYt6s23cfhibIy8G0y0/edit?usp=sharing
+
+
+     ```bash
     copy .env.example .env
     ```
 
