@@ -31,7 +31,7 @@ O **financiaAi** é uma ferramenta que permite aos usuários:
 
 2. Entre no diretório do projeto:
     ```bash
-    cd Projeto_final
+    cd cd Projeto_final
     ```
 
 3. Instale as dependências do Composer:
