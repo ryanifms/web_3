@@ -68,10 +68,10 @@ DB_PASSWORD=postgres
 
 5. Execute as migrações do banco de dados:
     ```bash
-    php php artisan key:generate
+     php artisan key:generate
     ```
      ```bash
-    php php artisan migrate
+     php artisan migrate
     ```
 
 ## Uso
@@ -87,3 +87,5 @@ escreve na url depois de abir no navegador
  dashboard
  der do banco de dados
  https://docs.google.com/document/d/1GtdebSe_KmsH5nliBo9p5F8tUT9iA4IbiKgbXrFX9sw/edit?usp=sharing
+
+Caso tenha alguma duvida entra em contato
