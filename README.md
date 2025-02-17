@@ -82,4 +82,8 @@ Para iniciar a aplicação, execute:
 php artisar serve 
    ```
 escreve na url depois de abir no navegador
-   dashboard
+ http://127.0.0.1:8000/dashboard
+ ou 
+ caso o host nao seja o padrao
+ dashboard
+ 
